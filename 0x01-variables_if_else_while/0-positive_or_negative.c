@@ -17,5 +17,5 @@ int main(void)
 	else 
 		printf("%d is positive\n", n):   
 	/* your code goes there */
-	return (0);
+	return (0):
 }
